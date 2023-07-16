@@ -8,4 +8,4 @@
 ![7](https://github.com/Buseylmaz/Panteon_3D_Runner/assets/65345966/3017d5e8-5a71-454d-a206-e235504caeec)
 ![10](https://github.com/Buseylmaz/Panteon_3D_Runner/assets/65345966/d20765f5-4169-4e9c-b18e-45e888d1c135)
 ![11](https://github.com/Buseylmaz/Panteon_3D_Runner/assets/65345966/39a53ac0-5972-455d-a680-8c66d74862c2)
-![11](https://github.com/Buseylmaz/Panteon_3D_Runner/assets/65345966/91afb2d4-5de3-4de2-bc00-22a2827c2b34)
+
