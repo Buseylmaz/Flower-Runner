@@ -1,3 +1,4 @@
+Panteon Akademiyle geliştirilen 2.oyun
 
 ![gitHub](https://github.com/Buseylmaz/Panteon_3D_Runner/assets/65345966/7cfce2aa-d336-4b3a-a232-daac91e4e96d)
 ![gitHub2](https://github.com/Buseylmaz/Panteon_3D_Runner/assets/65345966/3d07af6b-7603-4974-97fc-97bc23377160)
