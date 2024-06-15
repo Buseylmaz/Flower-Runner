@@ -2,9 +2,9 @@
 This is the second game created as a result of our training at Pantheon Academy. In this game, I preferred colors that I love, predominantly pink and purple. The objective of the game is for the player to collect flowers, avoid cacti, and not collide with obstacles.
 
 ## **Features:**
-Color Scheme: Predominantly pink and purple, reflecting personal preferences.
-Game Objective: Collect flowers while avoiding cacti and obstacles.
-Reward System: Upon collecting a certain number of flowers, the player triggers a celebratory animation that varies based on the number of flowers collected.
+* Color Scheme: Predominantly pink and purple, reflecting personal preferences.
+* Game Objective: Collect flowers while avoiding cacti and obstacles.
+* Reward System: Upon collecting a certain number of flowers, the player triggers a celebratory animation that varies based on the number of flowers collected.
 
 
 This game combines personal aesthetic choices with gameplay elements designed to challenge the player's avoidance skills while providing a visually appealing experience.
